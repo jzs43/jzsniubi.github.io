@@ -12,3 +12,5 @@ output:
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 this is a [link](https://www.google.com/) to somewhere else
+
+and here is the link to [about](about.html) page. 
